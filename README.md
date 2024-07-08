@@ -99,10 +99,13 @@ Authors: Zaianchukovska S. // Anpilogov V. // Tsiupko Y.
 ### Example Outputs
 - Menu
 <img width="479" alt="Screenshot 2024-07-08 at 05 28 10" src="https://github.com/vanpilogov13/Final-Project-Zaianchukovska-S-Anpilogov-V-Tsiupko-Y/assets/169614450/e56da747-990e-47f2-aaf0-42b7e7e049c2">
+
 - Checking Existing Information
 <img width="620" alt="Screenshot 2024-07-08 at 05 31 53" src="https://github.com/vanpilogov13/Final-Project-Zaianchukovska-S-Anpilogov-V-Tsiupko-Y/assets/169614450/8a02e1fc-7433-42cf-bb22-804e6f50eb15">
+
 - Adding a New Data Source
 <img width="563" alt="Screenshot 2024-07-08 at 05 29 26" src="https://github.com/vanpilogov13/Final-Project-Zaianchukovska-S-Anpilogov-V-Tsiupko-Y/assets/169614450/ce44c463-c9ac-4a80-93dd-445945afaf96">
+
 - Сalculating Metric
 <img width="309" alt="Screenshot 2024-07-08 at 05 30 22" src="https://github.com/vanpilogov13/Final-Project-Zaianchukovska-S-Anpilogov-V-Tsiupko-Y/assets/169614450/21a369ac-4490-47b0-944f-292bdadb85ed">
 <img width="533" alt="Screenshot 2024-07-08 at 05 30 36" src="https://github.com/vanpilogov13/Final-Project-Zaianchukovska-S-Anpilogov-V-Tsiupko-Y/assets/169614450/6f74f112-2d8f-4c0c-888d-ecc4b68218c0">
